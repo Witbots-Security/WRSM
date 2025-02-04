@@ -58,10 +58,6 @@ if (isset($configValues['DALORADIUS_VERSION'])) {
 $descriptors3[] = array(
                             'type' => 'textarea',
                             'content' => sprintf('daloRADIUS - RADIUS Management%s', $content),
-                            'readmore' => array( 'href' => 'https://github.com/lirantal/daloradius',
-                                                 'title' => 'Read More',
-                                                 'label' => 'Read More',
-                                               ),
                       );
 
 

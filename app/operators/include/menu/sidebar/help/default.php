@@ -41,11 +41,7 @@ if (isset($configValues['DALORADIUS_VERSION'])) {
 
 $descriptors1[] = array(
                             'type' => 'textarea',
-                            'content' => sprintf('daloRADIUS - RADIUS Management%s', $content),
-                            'readmore' => array( 'href' => 'https://github.com/lirantal/daloradius',
-                                                 'title' => 'Read More',
-                                                 'label' => 'Read More',
-                                               ),
+                            'content' => sprintf('daloRADIUS - RADIUS Management%s', $content)
                        );
 
 // add descriptors to a sections

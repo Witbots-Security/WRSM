@@ -32,12 +32,12 @@ if (strpos($_SERVER['PHP_SELF'], '/lang/zh.php') !== false) {
 }
 
 $l['all']['daloRADIUS'] = sprintf("daloRADIUS %s", $configValues['DALORADIUS_VERSION']);
-$l['all']['daloRADIUSVersion'] = sprintf("版本 %s ", $configValues['DALORADIUS_VERSION']);
-$l['all']['copyright1'] = 'RADIUS 管理、报告、会计和账单 <a target="_blank" href="https://github.com/lirantal/daloradius">Liran Tal</a>';
+$l['all']['daloRADIUSVersion'] = sprintf("version %s ", $configValues['DALORADIUS_VERSION']);
+$l['all']['copyright1'] = 'RADIUS Management Server by <a target="_blank" href="https://www.witbotssec.com/">Witbots Technologies</a>';
 $l['all']['copyright2'] = 'daloRADIUS - Copyright &copy; 2007-' . date('Y') . <<<EOF
- <span class="d-inline-block" tabindex="0" data-bs-toggle="popover" data-bs-trigger="hover focus" data-bs-content="Follow @filippolauria on GitHub">
-  <a target="_blank" href="https://github.com/filippolauria">Filippo Lauria</a>
-</span>  and <a target="_blank" href="https://github.com/lirantal/daloradius">Liran Tal</a> Chinese language pack produced by SanDuo, rongzedong, robertkwok2..
+ <span class="d-inline-block" tabindex="0" data-bs-toggle="popover" data-bs-trigger="hover focus" data-bs-content="Follow @Witbots technologies on GitHub">
+  <a target="_blank" href="https://github.com/Witbots-Security">Witbots Technologies</a>
+</span>  and <a target="_blank" href="https://github.com/Witbots-Security">Witbots Technologies</a>.
 EOF;
 
 $l['all']['ID'] = "ID";
