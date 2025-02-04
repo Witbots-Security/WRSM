@@ -35,7 +35,7 @@ $l['all']['copyright1'] = 'RADIUS Management Server by <a target="_blank" href="
 $l['all']['copyright2'] = 'daloRADIUS - Copyright &copy; 2007-' . date('Y') . <<<EOF
  <span class="d-inline-block" tabindex="0" data-bs-toggle="popover" data-bs-trigger="hover focus" data-bs-content="Follow @Witbots technologies on GitHub">
   <a target="_blank" href="https://github.com/Witbots-Security">Witbots Technologies</a>
-</span>  and <a target="_blank" href="https://github.com/Witbots-Security">Witbots Technologies</a>.
+</span>.
 EOF;
 
 $l['all']['ID'] = "ID";
