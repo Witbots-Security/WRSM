@@ -24,22 +24,6 @@ Alternatively, you can also find the installation guide in the `doc/install` fol
 
 If you encounter any issues during the installation or have any questions, feel free to ask for support in the [Issues](../../issues) section.
 
-## Documentation
-
-The documentation for daloRADIUS is available in Markdown format and can be found in the `doc` folder of this repository.
-
-## Contributors
-
-Special thanks to these wonderful people for their contributions to daloRADIUS...
-<p align="center">
-  <a href="../../graphs/contributors">
-    <img src="https://contrib.rocks/image?repo=lirantal/daloradius&columns=15" />
-  </a>
-</p>
-... and many more who have contributed to the project over time. Thank you for your valuable contributions!
-
-Would you like to contribute too? Learn how to get started: [How to Contribute](https://github.com/firstcontributions/first-contributions).
-
 # Features
 
 ## Management
